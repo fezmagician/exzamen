@@ -1,0 +1,12 @@
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\bin\Debug\netcoreapp3.1\exzamen.exe
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\bin\Debug\netcoreapp3.1\exzamen.deps.json
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\bin\Debug\netcoreapp3.1\exzamen.runtimeconfig.json
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\bin\Debug\netcoreapp3.1\exzamen.runtimeconfig.dev.json
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\bin\Debug\netcoreapp3.1\exzamen.dll
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\bin\Debug\netcoreapp3.1\exzamen.pdb
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\obj\Debug\netcoreapp3.1\exzamen.AssemblyInfoInputs.cache
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\obj\Debug\netcoreapp3.1\exzamen.AssemblyInfo.cs
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\obj\Debug\netcoreapp3.1\exzamen.csproj.CoreCompileInputs.cache
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\obj\Debug\netcoreapp3.1\exzamen.dll
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\obj\Debug\netcoreapp3.1\exzamen.pdb
+C:\Users\fezma.DESKTOP-RQJPIIE\OneDrive\Рабочий стол\exzamen\exzamen\obj\Debug\netcoreapp3.1\exzamen.genruntimeconfig.cache
