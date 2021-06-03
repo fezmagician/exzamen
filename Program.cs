@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp44
+namespace examen
 {
     public delegate int Number();
     public delegate int MediumCalc(Number[] arrayX);
