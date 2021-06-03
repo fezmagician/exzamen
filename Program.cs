@@ -9,11 +9,11 @@ namespace examen
         public static int Randomizer()
         {
             Random rand = new Random();
-            return rand.Next(1, 10);
+            return rand.Next(1, 15);
         }
         static void Main(string[] args)
         {
-            Number[] numArr = new Number[5];
+            Number[] numArr = new Number[4];
             for (int i = 0; i < numArr.Length; i++)
             {
                 numArr[i] = Randomizer;
